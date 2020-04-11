@@ -4,6 +4,8 @@ The code for this repo was inspired by [this](https://codereview.stackexchange.c
 
 Barrier mode is added to the snake game, which can slightly increase the difficulty of the game.
 
+<img src="snake_game.gif"/>
+
 ## Dependencies
 * cmake >= 3.7
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
